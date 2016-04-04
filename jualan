@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Jualan Batik GG-est</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+</head>
+<body>
+   <div class="row">
+    <div class="container">
+    <h2 class="page-header">Jualan Batik</h2>
+      </div>
+  </div>
+  <div class="row">
+    <div class="container">
+      <div class="col-md-4">
+          <ul class="nav nav-pills nav-stacked">
+            <li role="presentation" class="active"><a href="#"><span class="glyphicon glyphicon-phone"></span>Home</a></li>
+            <li role="presentation"><a href="#"><span class="glyphicon glyphicon-pencil"></span>Batik Tulis</a></li>
+            <li role="presentation"><a href="#"><span class="glyphicon glyphicon-pencil"></span>Batik Cap</a></li>
+            <li role="presentation"><a href="#"><pan class="glyphicon glyphicon-fire"></pan> Daftar Harga</a></li>
+            <li role="presentation"><a href="#"><span class="glyphicon glyphicon-eye-open"></span>Custom Design</a></li>
+          </ul>
+       </div>
+      <div class="col-md-8">
+      <div class="row">
+        <div class="container">
+          <div class="col-md-2">
+            <img src="http://bajubatiksekar.com/wp-content/uploads/2015/02/setelan-batik-sarimbit-couple-sm345.jpg?b66d58" alt="" class="img-responsive thumbnail" />
+            <button type="button" class="btn btn-primary btn-block"><span class="glyphicon glyphicon-shopping-cart"></span> Rp 90.000</button>
+          </div>
+          <div class="col-md-2">
+            <img src="https://s-media-cache-ak0.pinimg.com/736x/57/7c/9c/577c9c8ca1f609ba10917a6432021020.jpg" alt="" class="img-responsive thumbnail" />
+            <button type="button" class="btn btn-primary btn-block"><span class="glyphicon glyphicon-shopping-cart"></span> Rp 90.000</button>
+          </div>
+          <div class="col-md-2">
+            <img src="https://ecs12.tokopedia.net/newimg/cache/300/product-1/2015/4/14/391058/391058_8c9362b6-e230-11e4-b0b0-22bd4908a8c2.jpg" alt="" class="img-responsive thumbnail" />
+            <button type="button" class="btn btn-primary btn-block"><span class="glyphicon glyphicon-shopping-cart"></span> Rp 90.000</button>
+          </div>
+          <div class="col-md-2">
+            <img src="http://bajubatiksekar.com/wp-content/uploads/2015/02/gamis-batik-sarimbit-muslim-modern-sgm155.jpg?b66d58" alt="" class="img-responsive thumbnail" />
+            <button type="button" class="btn btn-primary btn-block"><span class="glyphicon glyphicon-shopping-cart"></span> Rp 90.000</button>
+     
+          </div>
+        </div>
+      </div>
+      </div>
+      </div>
+  </div>
+ 
+  
+</body>
+</html>
