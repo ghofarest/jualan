@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Detail Batik Biru-Merah</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+</head>
+<body>
+  <div class="row">
+    <div class="container">
+      <h3 class="text-primary">Batik Ulalah Syantiqq <br /><small>Transaksi sukses semua 100%</small>
+        <div class="btn-group pull-right" role="group">
+          <button type="button" class="btn btn-lg btn-success">Beli Produk</button>
+          <button type="button" class="btn btn-lg btn-default">Tambah ke wishlist</button>                    
+        </div> <!-- btn-group -->     
+        <br><br>
+      </h3>
+      <hr>
+    </div> <!-- container -->
+  </div> <!-- row awal -->
+  
+  <div class="row">
+    <div class="container">
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <img src="http://kanzaswalayan.com/wp-content/uploads/2014/03/DC-4905-Biru-516x600.png" alt="Baju Batik Pink Ungu ijo">
+          <div class="caption">
+            <h3>Rp. 75000 ,-</h3>
+            <p>Note: Harga Berubah sewaktu - waktu.</p>
+            <p><a href="#" class="btn btn-primary" role="button">Pesan</a> <a href="#" class="btn btn-default" role="button">Beli</a></p>
+          </div>
+        </div>      
+      </div> <!-- <div class="col-md-4"> -->
+      
+      <div class="col-md-8"></div>
+    </div> <!-- container -->
+  </div> <!-- row kedua -->
+</body>
+</html>
