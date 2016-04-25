@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,9 +31,34 @@
           </div>
         </div>      
       </div> <!-- <div class="col-md-4"> -->
+  
+      
+      <div class="row">
+        <div class="container">
+          <div class="col-md-8"></div>
+        </div>
+      </div>
       
       <div class="col-md-8"></div>
+      
+        <table class="table table-bordered">
+          <tr>
+            <td>Dilihat Sebanyak : .span <span class="pull-right">400x</span></td>
+            <td>Berat : <span class="pull-right">2kg</span></td>
+          </tr>
+          <tr>
+            <td>Terjual: <span class="pull-right">3pcs</span></td>
+            <td>Asuransi : <span class="pull-right">Adira</span></td>
+          </tr>
+          <tr>
+            <td>Kondisi : <span class="pull-right">Baru</span></td>
+            <td>Pesan Minimal : <span class="pull-right">3</span></td>
+          </tr>
+        </table>
+      
+      
     </div> <!-- container -->
   </div> <!-- row kedua -->
+  
 </body>
 </html>
